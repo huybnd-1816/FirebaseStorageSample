@@ -69,3 +69,6 @@ fastlane/test_output
 Pods
 .DS_Store
 STTDemo/STTDemo/Data/Source/Remote/API/APIKey.swift
+/FirebaseStorageSample/FirebaseStorageSample/Audios/chunk000.wav
+/FirebaseStorageSample/FirebaseStorageSample/Audios/chunk003.wav
+/FirebaseStorageSample/FirebaseStorageSample/GoogleService-Info.plist
